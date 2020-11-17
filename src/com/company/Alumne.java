@@ -59,5 +59,4 @@ public class Alumne {
     public int[] getNotes() {
         return notes;
     }
-
-    }
+}
